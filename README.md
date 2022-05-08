@@ -141,6 +141,10 @@ https://github.com/marcofasa/ing-sw-2021-Fasanella-Maggioni-Manini
 
 https://github.com/citteriomatteo/ingswAM2021-Barbiero-Citterio-Caspani		
 
+https://github.com/aralara/ing-sw-2021-ferro-fumagalli-rigamonti
+
+https://github.com/Calonca/ing-sw-2021-laconca-lodari-giaccaglia
+
 ### 2020 - 30/30L
 
 https://github.com/davidemerli/santorini
@@ -160,6 +164,8 @@ https://github.com/LucaDanelutti/ing-sw-2020-Danelutti-DeSanti-DiDioLavore
 https://github.com/dario-passarello/santorini
 
 https://github.com/lorenzozane/ing-sw-2020-Malandra-Veroni-Zane
+
+https://github.com/marcopetri98/ing-sw-2020-petri-gpicc-restifo
 
 ### 2019 - 30/30L
 
