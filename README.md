@@ -169,6 +169,8 @@ https://github.com/vittot/ing-sw-2019-20
 
 https://github.com/bebora/Adrenalina
 
+https://github.com/giorgiopiazza/IngSw-Project-2019
+
 ### 2018 - 30/30L
 
 T.B.C
