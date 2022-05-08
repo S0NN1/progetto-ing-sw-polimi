@@ -156,11 +156,16 @@ https://github.com/simonetafaro/ing-sw-2020-serafini-straccia-tafaro
 https://github.com/LucaDanelutti/ing-sw-2020-Danelutti-DeSanti-DiDioLavore
 
 https://github.com/dario-passarello/santorini
+
+https://github.com/lorenzozane/ing-sw-2020-Malandra-Veroni-Zane
+
 ### 2019 - 30/30L
 
 https://github.com/SimoneSartoni/SoftwareEngineering
 
 https://github.com/vittot/ing-sw-2019-20
+
+https://github.com/bebora/Adrenalina
 
 ### 2018 - 30/30L
 
