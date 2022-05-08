@@ -139,6 +139,8 @@ https://github.com/Javinyx/MastersOfRenaissance
 
 https://github.com/marcofasa/ing-sw-2021-Fasanella-Maggioni-Manini
 
+https://github.com/citteriomatteo/ingswAM2021-Barbiero-Citterio-Caspani		
+
 ### 2020 - 30/30L
 
 https://github.com/davidemerli/santorini
@@ -183,8 +185,6 @@ T.B.C
 
 https://github.com/Stefano-Civelli/ingswAM2021-Bernardelle-Civelli-Amati		
 
-https://github.com/citteriomatteo/ingswAM2021-Barbiero-Citterio-Caspani		
-
 https://github.com/caliandro-arturo/ingswAM2021-Caliandro-Converso-Dantini		
 
 https://github.com/chinifabio/ingswAM2021-Chini-Colabene-Curreri		
@@ -228,6 +228,8 @@ https://github.com/ValeriaPante/masters_of_renaissance
 https://github.com/DaviCori/Software-Engineering-Project		
 
 https://github.com/mirkoliveli/ing-sw-2021-grossoni-liveli-orlando		
+
+https://github.com/Calonca/ing-sw-2021-laconca-lodari-giaccaglia
 
 
 
