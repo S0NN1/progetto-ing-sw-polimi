@@ -167,6 +167,8 @@ https://github.com/lorenzozane/ing-sw-2020-Malandra-Veroni-Zane
 
 https://github.com/marcopetri98/ing-sw-2020-petri-gpicc-restifo
 
+https://github.com/QUB3X/ing-sw-2020-ferrara-franchini-fusco
+
 ### 2019 - 30/30L
 
 https://github.com/SimoneSartoni/SoftwareEngineering
