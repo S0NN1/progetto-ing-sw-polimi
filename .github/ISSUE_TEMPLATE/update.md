@@ -1,7 +1,7 @@
 ---
 name: Update
 about: Aggiornare un'informazione del README
-title: ''
+title: "[UPDATE]"
 labels: update
 assignees: ''
 

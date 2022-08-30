@@ -1,7 +1,7 @@
 ---
 name: Other
 about: Issue generica
-title: ''
+title: "[OTHER]"
 labels: other
 assignees: ''
 

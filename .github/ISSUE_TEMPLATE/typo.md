@@ -1,7 +1,7 @@
 ---
 name: Typo
 about: Typo da correggere nel README
-title: ''
+title: "[TYPO]"
 labels: typo
 assignees: ''
 
