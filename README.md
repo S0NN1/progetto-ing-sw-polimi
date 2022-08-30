@@ -181,6 +181,8 @@ https://github.com/bebora/Adrenalina
 
 https://github.com/giorgiopiazza/IngSw-Project-2019
 
+https://github.com/f-cazzola/ing-sw-2019-bordoni-cazzola-dotti		
+
 ### 2018 - 30/30L
 
 T.B.C
@@ -287,8 +289,6 @@ https://github.com/lucagrammer/Ing-Sw-2020-Leoni-Locarno-Minotti
 https://github.com/mirkousuelli/ing-sw-2020-secreti-tresoldi-usuelli		
 
 ### 2019 - other
-
-https://github.com/f-cazzola/ing-sw-2019-bordoni-cazzola-dotti		
 
 https://github.com/alessiapacca/ing-sw-2019-13		
 
