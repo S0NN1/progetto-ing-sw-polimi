@@ -145,6 +145,8 @@ https://github.com/aralara/ing-sw-2021-ferro-fumagalli-rigamonti
 
 https://github.com/Calonca/ing-sw-2021-laconca-lodari-giaccaglia
 
+https://github.com/damianoamatruda/masters-of-renaissance
+
 ### 2020 - 30/30L
 
 https://github.com/davidemerli/santorini
