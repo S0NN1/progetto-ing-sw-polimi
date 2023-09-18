@@ -40,6 +40,29 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 
 [✅ Requisiti](/resources/2023/requirements.pdf)
 
+|  Funzionalità   | Base  | Avanzata |
+|-----|---|---|
+| Regole semplificate | ✅ | |
+| Regole complete | ✅ | |
+| Socket | ✅ | |
+| RMI | ✅ | |
+| TUI | ✅ | |
+| GUI | ✅ | |
+| Partite Multiple | | ✅ |
+| Persistenza | | ✅ |
+| Resilienza alle disconnessioni | | ✅ |
+| Chat | | ✅ |
+
+|  Requisiti soddisfatti   | Voto  |
+|-----|---|
+| Regole Semplificate + TUI + RMI o Socket| 18|
+| Regole Complete + TUI + RMI o Socket | 20|
+| Regole Complete + TUI + RMI o Socket + 1 FA | 22|
+| Regole Complete + TUI + GUI + RMI o Socket + 1 FA | 24|
+| Regole Complete + TUI + GUI + RMI + Socket + 1 FA | 27|
+| Regole Complete + TUI + GUI + RMI + Socket + 2 FA | 30|
+| Regole Complete + TUI + GUI + RMI + Socket + 3 FA | 30L|
+
 ### 2022 - Eriantys
 
 [📖 Regolamento](/resources/2022/rules.pdf)
