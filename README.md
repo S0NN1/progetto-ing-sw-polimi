@@ -46,6 +46,28 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 
 [✅ Requisiti](/resources/2022/requirements.pdf)
 
+|  Funzionalità   | Base  | Avanzata |
+|-----|---|---|
+| Regole semplificate | ✅ | |
+| Regole complete | ✅ | |
+| Socket | ✅ | |
+| GUI | ✅ | |
+| CLI | ✅ | |
+| Carte personaggio | | ✅ |
+| Partita a 4 giocatori | | ✅ |
+| Partite Multiple | | ✅ |
+| Persistenza | | ✅ |
+| Resilienza alle disconnessioni | | ✅ |
+
+|  Requisiti soddisfatti   | Voto  |
+|-----|---|
+| Regole Semplificate + CLI + Socket| 18|
+| Regole Complete + CLI + Socket| 21|
+| Regole Complete + CLI + GUI + Socket| 24|
+| Regole Complete + CLI + GUI + Socket + 1 FA| 27|
+| Regole Complete + CLI + GUI + Socket + 2 FA| 30|
+| Regole Complete + CLI + GUI + Socket + 3 FA| 30L|
+
 ### 2021 - Maestri del Rinascimento
 
 [📖 Regolamento](/resources/2020/rules.pdf)
