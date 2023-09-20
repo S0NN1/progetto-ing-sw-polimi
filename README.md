@@ -40,11 +40,56 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 
 [✅ Requisiti](/resources/2023/requirements.pdf)
 
+|  Funzionalità   | Base  | Avanzata |
+|-----|---|---|
+| Regole semplificate | ✅ | |
+| Regole complete | ✅ | |
+| Socket | ✅ | |
+| RMI | ✅ | |
+| TUI | ✅ | |
+| GUI | ✅ | |
+| Partite Multiple | | ✅ |
+| Persistenza | | ✅ |
+| Resilienza alle disconnessioni | | ✅ |
+| Chat | | ✅ |
+
+|  Requisiti soddisfatti   | Voto  |
+|-----|---|
+| Regole Semplificate + TUI + RMI o Socket| 18|
+| Regole Complete + TUI + RMI o Socket | 20|
+| Regole Complete + TUI + RMI o Socket + 1 FA | 22|
+| Regole Complete + TUI + GUI + RMI o Socket + 1 FA | 24|
+| Regole Complete + TUI + GUI + RMI + Socket + 1 FA | 27|
+| Regole Complete + TUI + GUI + RMI + Socket + 2 FA | 30|
+| Regole Complete + TUI + GUI + RMI + Socket + 3 FA | 30L|
+
 ### 2022 - Eriantys
 
 [📖 Regolamento](/resources/2022/rules.pdf)
 
 [✅ Requisiti](/resources/2022/requirements.pdf)
+
+|  Funzionalità   | Base  | Avanzata |
+|-----|---|---|
+| Regole semplificate | ✅ | |
+| Regole complete | ✅ | |
+| Socket | ✅ | |
+| GUI | ✅ | |
+| CLI | ✅ | |
+| Carte personaggio | | ✅ |
+| Partita a 4 giocatori | | ✅ |
+| Partite Multiple | | ✅ |
+| Persistenza | | ✅ |
+| Resilienza alle disconnessioni | | ✅ |
+
+|  Requisiti soddisfatti   | Voto  |
+|-----|---|
+| Regole Semplificate + CLI + Socket| 18|
+| Regole Complete + CLI + Socket| 21|
+| Regole Complete + CLI + GUI + Socket| 24|
+| Regole Complete + CLI + GUI + Socket + 1 FA| 27|
+| Regole Complete + CLI + GUI + Socket + 2 FA| 30|
+| Regole Complete + CLI + GUI + Socket + 3 FA| 30L|
 
 ### 2021 - Maestri del Rinascimento
 
@@ -188,6 +233,30 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 
 ## Progetti con il massimo dei voti
 
+### 2023 - 30/30L
+
+<https://github.com/francescogemma/MyShelfie>
+
+<https://github.com/Furrrlo/my-shelfie>
+
+<https://github.com/Jacopopiazza/ing-sw-2023>
+
+<https://github.com/SigCatta/MyShelfie>
+
+### 2022 - 30/30L
+
+<https://github.com/AndreaNeti/ing-sw-2022-Sanguineti-Santoro-Piras>
+
+<https://github.com/Frenk3D/ing-sw-2022-Previtera-Riccardi-Scaccia>
+
+<https://github.com/leofavento/ing-sw-2022-Favento-Laini-Macaluso>
+
+<https://github.com/nicolozambon/ing-sw-2022-sciarrabba-sironi-zambon>
+
+<https://github.com/riccardoinghilleri/Software-Engineering-2022-Inghilleri-Maftei-Merlo>
+
+<https://github.com/viols-code/ing-sw-2022-renne-resta-puccioni>
+
 ### 2021 - 30/30L
 
 <https://github.com/andrealesani/ingswAM2021-Alesani-Brumani-Cagliani>
@@ -253,6 +322,198 @@ T.B.C
 ---
 
 ## Altri progetti
+
+### 2023 - other
+
+<https://github.com/0xabi/ing-sw-2023-margarini-nasr-niedda-ostidich>
+
+<https://github.com/ale-polimi/ing-sw-2023-pressiani-rossi-spinelli-travaini>
+
+<https://github.com/andbna10/ing-sw-2023-Gentile-Gangi-Grandi-Isgro>
+
+<https://github.com/ArimondoScrivano/MyShelfie-ing-sw_2023-POLIMI>
+
+<https://github.com/Astesia-0902/IS23-AM21>
+
+<https://github.com/cpiccoli-polimi/ing-sw-2023-Piccoli-Pittelli-Siniscalchi-Paracchini>
+
+<https://github.com/DanielStraface/ing-sw-2023-Pasinetti-Rossi-Straface-Panarotto>
+
+<https://github.com/FabioSabbion/ing-sw-2023-sabbion-pagano-salillari-torsani>
+
+<https://github.com/federico-zanca/ing-sw-2023-zanca-zhuge-zheng-wu>
+
+<https://github.com/FilippoGarofalo/ing-sw-2023-Garofalo-Lazzaretto-Kalupahana-Marusic>
+
+<https://github.com/ilboglions/IS23-AM07>
+
+<https://github.com/LeteTalete/ing-sw-2023-torre-speroni-vola-robu>
+
+<https://github.com/LucaGuffanti/ing-sw-2023-Guffanti-Ferrario-Galli-Franzoni>
+
+<https://github.com/MarcoMeinardi/ing-sw-2023-Maltagliati-Manfredonia-Meinardi-Merlino>
+
+<https://github.com/MatteoBriscini/Software-engineering-final-project>
+
+### 2022 - other
+
+<https://github.com/aarontognoli/ing-sw-2022-somaini-taluzzi-tognoli>
+
+<https://github.com/AlbertoCeresoli/Eryantis_Board_Game_SE>
+
+<https://github.com/alenkaja00/ing-sw-2022-Kucuku-Landolina-Kaja>
+
+<https://github.com/AleSassi/ingsw2022-AM26>
+
+<https://github.com/AlessandroGriffanti/ing-sw-2022-ferrario-griffanti-masiero>
+
+<https://github.com/AlessandroVacca/ing-sw-2022-preatoni-sarrocco-vacca>
+
+<https://github.com/alexbradd/ingsw2022-AM36>
+
+<https://github.com/AlexTischer/ing-sw-2022-Shpakov-Stefanizzi-Tischer>
+
+<https://github.com/andreaalbergo/ingsw2022-AM48>
+
+<https://github.com/AndreaRiboni/ing-sw-2022-poidomani-riboni-volpentesta>
+
+<https://github.com/andreascaffidi/ing-sw-2022-tagliatti-zanon-scaffidi>
+
+<https://github.com/AndreaVerrone/ing-sw-2022-miani-porta-verrone>
+
+<https://github.com/Angelo7672/ingsw2022-AM25>
+
+<https://github.com/Baldi00/Eriantys>
+
+<https://github.com/BonfantiStefano/ingsw2022-AM24>
+
+<https://github.com/CarloChiodaroli/ingsw2022-AM40>
+
+<https://github.com/carloronconi/ing-sw-2022-arcuri-prosio-ronconi>
+
+<https://github.com/carminefaino/Progetto-Ingegneria-del-Software-ingsw2022>
+
+<https://github.com/christian-confalonieri/Eriantys-Prova-Finale-Ingegneria-del-Software-2021-2022>
+
+<https://github.com/ChristianDiDiego/ingsw2022-AM31>
+
+<https://github.com/claudioarione/Eriantys-SoftEng2022>
+
+<https://github.com/CoffeOverflow/ing-sw-2022-Bonanno-Zagami-Tommasini>
+
+<https://github.com/daniPolii/ingsw2022-AM45>
+
+<https://github.com/Dapizz01/Ingegneria_SW_2022>
+
+<https://github.com/davide-mozzi/Eriantys>
+
+<https://github.com/DavidePrea/ing-sw-2022-preatoni-sarrocco-vacca>
+
+<https://github.com/DavideTenediniPoliMi/INGSW_Project_21_22>
+
+<https://github.com/Delath/Eriantys-Game>
+
+<https://github.com/Demisu/ing-sw-2022-selva-simoni-manta>
+
+<https://github.com/destshadow/ING.SW.2022>
+
+<https://github.com/EnricoSimionato/Prova-Finale-di-Ingegneria-del-Software-2021-2022>
+
+<https://github.com/fabio-ciani/ingsw2022-AM21>
+
+<https://github.com/FedeMazzu/ing-sw-2022-Gandini-Mazzucato-Messino>
+
+<https://github.com/FedericoValentino/ing-sw-2022-Valentino-Vento-Verdicchio>
+
+<https://github.com/fedespole/ing-sw-2022-schiaffino-spoletini-zenati>
+
+<https://github.com/FerriAlessandro/ing-sw-2022-Ferri-Gabbini-Gaillet>
+
+<https://github.com/FilippoDelNero/ingsw2022-AM19>
+
+<https://github.com/filippofini/ing-sw-2022-Fini-Fiorentino-Longinotti>
+
+<https://github.com/fmorea/ing-sw-2022-morelli-morea-netodellacqua>
+
+<https://github.com/FrancescaRicter/Ingegneria-del-Software>
+
+<https://github.com/francesco-re-1107/eriantys>
+
+<https://github.com/gio-del/Eriantys-Board-Game>
+
+<https://github.com/GioBar00/ingsw2022-AM33>
+
+<https://github.com/GiovanniPaolino01/Progetto-Ingegneria-del-Software-2022>
+
+<https://github.com/giuse-boccia/ingsw2022-AM17>
+
+<https://github.com/irinel-sarbu/ing-sw-2022-Rigamonti-Rogora-Sarbu>
+
+<https://github.com/laughinginloud/ing-sw-2022-manfredi-martelli-meneghin>
+
+<https://github.com/leonardodeclara/ingsw2022-AM52>
+
+<https://github.com/leonardopesce/ing-sw-2022-Pesce-Pertino-Paddeu>
+
+<https://github.com/LorenzoVeronesePolimi/ing-sw-2022-veronese-silvestrini-stucchi>
+
+<https://github.com/LucaMaestri10702329/Software-Engineering-project-2022>
+
+<https://github.com/lucamuroni/ing-sw-2022-Mucci-Muroni-Grazzani>
+
+<https://github.com/LucaRomano2/Eryantis>
+
+<https://github.com/lups2000/ing-sw-2022-Luppi-Lussana-Muralidaran>
+
+<https://github.com/MarcoGrazi/ing-sw-2022-Famoso-Grazi-Desideri>
+
+<https://github.com/MattBlue00/ing-sw-2022-Scherini-Spreafico-Tassini>
+
+<https://github.com/MatteoPancini/ing-sw-2022-Palumbo-Pancini-Pascali>
+
+<https://github.com/matteorigat/ing-sw-2022-Rigat-Schiavoni-Avarino>
+
+<https://github.com/Moretti-Damiano/Ing_Sw2022_Ziti_Project_Eriantys>
+
+<https://github.com/MykhailoShpakovPoliMi/ing-sw-2022-Shpakov-Stefanizzi-Tischer>
+
+<https://github.com/mynam3isg00d/ing-sw-2022-Paradina-Peri-Palmiotti>
+
+<https://github.com/NiccoloRizzi/ing-sw-2022-Rizzi-Pizzi-Savazzi>
+
+<https://github.com/NicolaZarbo/ing-sw-2022-scroccarello-zarbo-tombesi>
+
+<https://github.com/NidasioAlberto/ing-sw-2022-sandri-nidasio-pignataro>
+
+<https://github.com/nylone/progetto-ingsw-2022>
+
+<https://github.com/Osiman99/ing-sw-2022-Osimo-Fuse-Kina>
+
+<https://github.com/paolopertino/ing-sw-2022-Pesce-Pertino-Paddeu>
+
+<https://github.com/PietroLodiRizzini/ing-sw-2022-Mansutti-Lombardo-Lodi>
+
+<https://github.com/riccardo-negri/ing-sw-2022-Mello-Montanari-Negri>
+
+<https://github.com/richibrics/ingsw2022-AM10>
+
+<https://github.com/robertogiandomenico/ing-sw-2022-folini-grimaldi-giandomenico>
+
+<https://github.com/saamur/ingsw2022-AM51>
+
+<https://github.com/SaladSlayer00/ing-sw-2022-Insalata-Kimbi-Maccarini>
+
+<https://github.com/SimoDedo/ingsw2022-AM46>
+
+<https://github.com/SoulFire6/ing-sw-2022-vitali-valenti-venini>
+
+<https://github.com/therealsivie/ProgettoIngeSw-2022>
+
+<https://github.com/tpoppo/ing-sw-2022-benedetti-romano-rossi>
+
+<https://github.com/umbertocolangelo/ingsw2022-AM29>
+
+<https://github.com/ValeriaFasciana/ingsw2022-AM02>
 
 ### 2021 - other
 
