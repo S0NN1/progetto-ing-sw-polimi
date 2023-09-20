@@ -233,6 +233,16 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 
 ## Progetti con il massimo dei voti
 
+### 2023 - 30/30L
+
+<https://github.com/francescogemma/MyShelfie>
+
+<https://github.com/Furrrlo/my-shelfie>
+
+<https://github.com/Jacopopiazza/ing-sw-2023>
+
+<https://github.com/SigCatta/MyShelfie>
+
 ### 2022 - 30/30L
 
 <https://github.com/AndreaNeti/ing-sw-2022-Sanguineti-Santoro-Piras>
@@ -312,6 +322,38 @@ T.B.C
 ---
 
 ## Altri progetti
+
+### 2023 - other
+
+<https://github.com/0xabi/ing-sw-2023-margarini-nasr-niedda-ostidich>
+
+<https://github.com/ale-polimi/ing-sw-2023-pressiani-rossi-spinelli-travaini>
+
+<https://github.com/andbna10/ing-sw-2023-Gentile-Gangi-Grandi-Isgro>
+
+<https://github.com/ArimondoScrivano/MyShelfie-ing-sw_2023-POLIMI>
+
+<https://github.com/Astesia-0902/IS23-AM21>
+
+<https://github.com/cpiccoli-polimi/ing-sw-2023-Piccoli-Pittelli-Siniscalchi-Paracchini>
+
+<https://github.com/DanielStraface/ing-sw-2023-Pasinetti-Rossi-Straface-Panarotto>
+
+<https://github.com/FabioSabbion/ing-sw-2023-sabbion-pagano-salillari-torsani>
+
+<https://github.com/federico-zanca/ing-sw-2023-zanca-zhuge-zheng-wu>
+
+<https://github.com/FilippoGarofalo/ing-sw-2023-Garofalo-Lazzaretto-Kalupahana-Marusic>
+
+<https://github.com/ilboglions/IS23-AM07>
+
+<https://github.com/LeteTalete/ing-sw-2023-torre-speroni-vola-robu>
+
+<https://github.com/LucaGuffanti/ing-sw-2023-Guffanti-Ferrario-Galli-Franzoni>
+
+<https://github.com/MarcoMeinardi/ing-sw-2023-Maltagliati-Manfredonia-Meinardi-Merlino>
+
+<https://github.com/MatteoBriscini/Software-engineering-final-project>
 
 ### 2022 - other
 
