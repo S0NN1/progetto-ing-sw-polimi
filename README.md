@@ -365,8 +365,6 @@ T.B.C
 
 <https://github.com/alenkaja00/ing-sw-2022-Kucuku-Landolina-Kaja>
 
-<https://github.com/AleSassi/ingsw2022-AM26>
-
 <https://github.com/AlessandroGriffanti/ing-sw-2022-ferrario-griffanti-masiero>
 
 <https://github.com/AlessandroVacca/ing-sw-2022-preatoni-sarrocco-vacca>
