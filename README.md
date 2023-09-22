@@ -257,6 +257,8 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 
 <https://github.com/viols-code/ing-sw-2022-renne-resta-puccioni>
 
+<https://github.com/AleSassi/ingsw2022-AM26>
+
 ### 2021 - 30/30L
 
 <https://github.com/andrealesani/ingswAM2021-Alesani-Brumani-Cagliani>
