@@ -235,6 +235,8 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 
 ### 2023 - 30/30L
 
+<https://github.com/TheFedelino01/ing-sw-2023-saccani-spangaro-sanvito-pedersoli>
+
 <https://github.com/francescogemma/MyShelfie>
 
 <https://github.com/Furrrlo/my-shelfie>
