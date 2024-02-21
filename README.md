@@ -247,6 +247,8 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 
 ### 2022 - 30/30L
 
+<https://github.com/laughinginloud/ing-sw-2022-manfredi-martelli-meneghin>
+
 <https://github.com/AndreaNeti/ing-sw-2022-Sanguineti-Santoro-Piras>
 
 <https://github.com/Frenk3D/ing-sw-2022-Previtera-Riccardi-Scaccia>
@@ -260,6 +262,8 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 <https://github.com/viols-code/ing-sw-2022-renne-resta-puccioni>
 
 <https://github.com/AleSassi/ingsw2022-AM26>
+
+<https://github.com/marcomole00/ing-sw-2022-longo-mole-negro>
 
 ### 2021 - 30/30L
 
@@ -450,8 +454,6 @@ T.B.C
 <https://github.com/giuse-boccia/ingsw2022-AM17>
 
 <https://github.com/irinel-sarbu/ing-sw-2022-Rigamonti-Rogora-Sarbu>
-
-<https://github.com/laughinginloud/ing-sw-2022-manfredi-martelli-meneghin>
 
 <https://github.com/leonardodeclara/ingsw2022-AM52>
 
