@@ -455,8 +455,6 @@ T.B.C
 
 <https://github.com/irinel-sarbu/ing-sw-2022-Rigamonti-Rogora-Sarbu>
 
-<https://github.com/laughinginloud/ing-sw-2022-manfredi-martelli-meneghin>
-
 <https://github.com/leonardodeclara/ingsw2022-AM52>
 
 <https://github.com/leonardopesce/ing-sw-2022-Pesce-Pertino-Paddeu>
