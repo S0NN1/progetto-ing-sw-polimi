@@ -4,11 +4,11 @@ Questa repository è stata creata per raggruppare i progetti del corso "Ingegner
 
 ## Struttura
 
-La repo è strutturata per macrosezioni:
+La repo è strutturata per macro sezioni:
 
-- Descrizione progetti: con requisti, funzionalità e regolamento divisi per anno;
+- Descrizione progetti: con requisiti, funzionalità e regolamento divisi per anno;
 
-- Progetti da 30/30L: che racchiudono i progetti verificati che abbiano preso o 30 o 30 e lode categorizzati per anno;
+- Progetti da 30/30L: racchiudono i progetti verificati che abbiano preso o 30 o 30 e lode categorizzati per anno;
 
 - Altri progetti di cui non è stata verificata la valutazione o non rientranti nella categoria precedente.
 
@@ -16,7 +16,7 @@ La repo è strutturata per macrosezioni:
 
 ## Come contribuire
 
-È possibile contribuire a questa repo nel caso mancasse un intero anno o progetto o valutazione creando una issue/PR con i label corretto:
+È possibile contribuire a questa repo nel caso mancasse un intero anno o progetto o valutazione creando una issue/PR con il label corretto:
 
 - missing: per repo mancante o non inclusa nella lista;
 
