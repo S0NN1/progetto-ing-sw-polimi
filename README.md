@@ -34,34 +34,63 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 
 ## Descrizione dei progetti
 
+### 2024 - Codex Naturalis
+
+[📖 Regolamento](/resources/2024/rules.pdf)
+
+[✅ Requisiti](/resources/2024/requirements.pdf)
+
+| Funzionalità                   | Base | Avanzata |
+| ------------------------------ | ---- | -------- |
+| Regole semplificate            | ✅   |          |
+| Regole complete                | ✅   |          |
+| Socket                         | ✅   |          |
+| RMI                            | ✅   |          |
+| TUI                            | ✅   |          |
+| GUI                            | ✅   |          |
+| Partite Multiple               |      | ✅       |
+| Persistenza                    |      | ✅       |
+| Resilienza alle disconnessioni |      | ✅       |
+| Chat                           |      | ✅       |
+
+| Requisiti soddisfatti                             | Voto |
+| ------------------------------------------------- | ---- |
+| Regole Semplificate + TUI + RMI o Socket          | 18   |
+| Regole Complete + TUI + RMI o Socket              | 20   |
+| Regole Complete + TUI + RMI o Socket + 1 FA       | 22   |
+| Regole Complete + TUI + GUI + RMI o Socket + 1 FA | 24   |
+| Regole Complete + TUI + GUI + RMI + Socket + 1 FA | 27   |
+| Regole Complete + TUI + GUI + RMI + Socket + 2 FA | 30   |
+| Regole Complete + TUI + GUI + RMI + Socket + 3 FA | 30L  |
+
 ### 2023 - My Shelfie
 
 [📖 Regolamento](/resources/2023/rules.pdf)
 
 [✅ Requisiti](/resources/2023/requirements.pdf)
 
-|  Funzionalità   | Base  | Avanzata |
-|-----|---|---|
-| Regole semplificate | ✅ | |
-| Regole complete | ✅ | |
-| Socket | ✅ | |
-| RMI | ✅ | |
-| TUI | ✅ | |
-| GUI | ✅ | |
-| Partite Multiple | | ✅ |
-| Persistenza | | ✅ |
-| Resilienza alle disconnessioni | | ✅ |
-| Chat | | ✅ |
+| Funzionalità                   | Base | Avanzata |
+| ------------------------------ | ---- | -------- |
+| Regole semplificate            | ✅   |          |
+| Regole complete                | ✅   |          |
+| Socket                         | ✅   |          |
+| RMI                            | ✅   |          |
+| TUI                            | ✅   |          |
+| GUI                            | ✅   |          |
+| Partite Multiple               |      | ✅       |
+| Persistenza                    |      | ✅       |
+| Resilienza alle disconnessioni |      | ✅       |
+| Chat                           |      | ✅       |
 
-|  Requisiti soddisfatti   | Voto  |
-|-----|---|
-| Regole Semplificate + TUI + RMI o Socket| 18|
-| Regole Complete + TUI + RMI o Socket | 20|
-| Regole Complete + TUI + RMI o Socket + 1 FA | 22|
-| Regole Complete + TUI + GUI + RMI o Socket + 1 FA | 24|
-| Regole Complete + TUI + GUI + RMI + Socket + 1 FA | 27|
-| Regole Complete + TUI + GUI + RMI + Socket + 2 FA | 30|
-| Regole Complete + TUI + GUI + RMI + Socket + 3 FA | 30L|
+| Requisiti soddisfatti                             | Voto |
+| ------------------------------------------------- | ---- |
+| Regole Semplificate + TUI + RMI o Socket          | 18   |
+| Regole Complete + TUI + RMI o Socket              | 20   |
+| Regole Complete + TUI + RMI o Socket + 1 FA       | 22   |
+| Regole Complete + TUI + GUI + RMI o Socket + 1 FA | 24   |
+| Regole Complete + TUI + GUI + RMI + Socket + 1 FA | 27   |
+| Regole Complete + TUI + GUI + RMI + Socket + 2 FA | 30   |
+| Regole Complete + TUI + GUI + RMI + Socket + 3 FA | 30L  |
 
 ### 2022 - Eriantys
 
@@ -69,27 +98,27 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 
 [✅ Requisiti](/resources/2022/requirements.pdf)
 
-|  Funzionalità   | Base  | Avanzata |
-|-----|---|---|
-| Regole semplificate | ✅ | |
-| Regole complete | ✅ | |
-| Socket | ✅ | |
-| GUI | ✅ | |
-| CLI | ✅ | |
-| Carte personaggio | | ✅ |
-| Partita a 4 giocatori | | ✅ |
-| Partite Multiple | | ✅ |
-| Persistenza | | ✅ |
-| Resilienza alle disconnessioni | | ✅ |
+| Funzionalità                   | Base | Avanzata |
+| ------------------------------ | ---- | -------- |
+| Regole semplificate            | ✅   |          |
+| Regole complete                | ✅   |          |
+| Socket                         | ✅   |          |
+| GUI                            | ✅   |          |
+| CLI                            | ✅   |          |
+| Carte personaggio              |      | ✅       |
+| Partita a 4 giocatori          |      | ✅       |
+| Partite Multiple               |      | ✅       |
+| Persistenza                    |      | ✅       |
+| Resilienza alle disconnessioni |      | ✅       |
 
-|  Requisiti soddisfatti   | Voto  |
-|-----|---|
-| Regole Semplificate + CLI + Socket| 18|
-| Regole Complete + CLI + Socket| 21|
-| Regole Complete + CLI + GUI + Socket| 24|
-| Regole Complete + CLI + GUI + Socket + 1 FA| 27|
-| Regole Complete + CLI + GUI + Socket + 2 FA| 30|
-| Regole Complete + CLI + GUI + Socket + 3 FA| 30L|
+| Requisiti soddisfatti                       | Voto |
+| ------------------------------------------- | ---- |
+| Regole Semplificate + CLI + Socket          | 18   |
+| Regole Complete + CLI + Socket              | 21   |
+| Regole Complete + CLI + GUI + Socket        | 24   |
+| Regole Complete + CLI + GUI + Socket + 1 FA | 27   |
+| Regole Complete + CLI + GUI + Socket + 2 FA | 30   |
+| Regole Complete + CLI + GUI + Socket + 3 FA | 30L  |
 
 ### 2021 - Maestri del Rinascimento
 
@@ -97,27 +126,27 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 
 [✅ Requisiti](/resources/2020/requirements.pdf)
 
-|  Funzionalità   | Base  | Avanzata |
-|-----|---|---|
-| Regole base | ✅ | |
-| Regole complete | ✅ | |
-| Socket | ✅ | |
-| CLI | ✅ | |
-| GUI | ✅ | |
-| Partite Multiple | | ✅ |
-| Persistenza | | ✅ |
-| Editor dei parametri | | ✅ |
-| Partita locale | | ✅ |
-| Resilienza alle disconnessioni | | ✅ |
+| Funzionalità                   | Base | Avanzata |
+| ------------------------------ | ---- | -------- |
+| Regole base                    | ✅   |          |
+| Regole complete                | ✅   |          |
+| Socket                         | ✅   |          |
+| CLI                            | ✅   |          |
+| GUI                            | ✅   |          |
+| Partite Multiple               |      | ✅       |
+| Persistenza                    |      | ✅       |
+| Editor dei parametri           |      | ✅       |
+| Partita locale                 |      | ✅       |
+| Resilienza alle disconnessioni |      | ✅       |
 
-|  Requisiti soddisfatti   | Voto  |
-|-----|---|
-| Regole Semplificate + CLI + Socket| 18|
-| Regole Complete + CLI + Socket | 21|
-| Regole Complete + CLI + GUI + Socket | 24|
-| Regole Complete + CLI + GUI + Socket + 1 FA | 27|
-| Regole Complete + CLI + GUI + Socket + 2 FA | 30|
-| Regole Complete + CLI + GUI + Socket + 3 FA | 30L|
+| Requisiti soddisfatti                       | Voto |
+| ------------------------------------------- | ---- |
+| Regole Semplificate + CLI + Socket          | 18   |
+| Regole Complete + CLI + Socket              | 21   |
+| Regole Complete + CLI + GUI + Socket        | 24   |
+| Regole Complete + CLI + GUI + Socket + 1 FA | 27   |
+| Regole Complete + CLI + GUI + Socket + 2 FA | 30   |
+| Regole Complete + CLI + GUI + Socket + 3 FA | 30L  |
 
 ### 2020 - Santorini
 
@@ -125,26 +154,26 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 
 [✅ Requisiti](/resources/2020/requirements.pdf)
 
-|  Funzionalità   | Base  | Avanzata |
-|-----|---|---|
-| Regole base | ✅ | |
-| Regole complete | ✅ | |
-| Socket | ✅ | |
-| CLI | ✅ | |
-| GUI | ✅ | |
-| Partite Multiple | | ✅ |
-| Persistenza | | ✅ |
-| Divinità Avanzate | | ✅ |
-| Undo | | ✅ |
+| Funzionalità      | Base | Avanzata |
+| ----------------- | ---- | -------- |
+| Regole base       | ✅   |          |
+| Regole complete   | ✅   |          |
+| Socket            | ✅   |          |
+| CLI               | ✅   |          |
+| GUI               | ✅   |          |
+| Partite Multiple  |      | ✅       |
+| Persistenza       |      | ✅       |
+| Divinità Avanzate |      | ✅       |
+| Undo              |      | ✅       |
 
-|  Requisiti soddisfatti   | Voto  |
-|-----|---|
-| Regole Semplificate + CLI + Socket| 18|
-| Regole Complete + CLI + Socket | 21|
-| Regole Complete + CLI + GUI + Socket | 24|
-| Regole Complete + CLI + GUI + Socket + 1 FA | 27|
-| Regole Complete + CLI + GUI + Socket + 2 FA | 30|
-| Regole Complete + CLI + GUI + Socket + 3 FA | 30L|
+| Requisiti soddisfatti                       | Voto |
+| ------------------------------------------- | ---- |
+| Regole Semplificate + CLI + Socket          | 18   |
+| Regole Complete + CLI + Socket              | 21   |
+| Regole Complete + CLI + GUI + Socket        | 24   |
+| Regole Complete + CLI + GUI + Socket + 1 FA | 27   |
+| Regole Complete + CLI + GUI + Socket + 2 FA | 30   |
+| Regole Complete + CLI + GUI + Socket + 3 FA | 30L  |
 
 ### 2019 - Adrenalina
 
@@ -152,28 +181,28 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 
 [✅ Requisiti](/resources/2019/requirements.pdf)
 
-|  Funzionalità   | Base  | Avanzata |
-|-----|---|---|
-| Regole base | ✅ | |
-| Regole complete | ✅ | |
-| Socket | ✅ | |
-| RMI | ✅ | |
-| CLI | ✅ | |
-| GUI | ✅ | |
-| Partite Multiple | | ✅ |
-| Persistenza | | ✅ |
-| Terminator | | ✅ |
-| Modalità dominazione o torrette | | ✅ |
+| Funzionalità                    | Base | Avanzata |
+| ------------------------------- | ---- | -------- |
+| Regole base                     | ✅   |          |
+| Regole complete                 | ✅   |          |
+| Socket                          | ✅   |          |
+| RMI                             | ✅   |          |
+| CLI                             | ✅   |          |
+| GUI                             | ✅   |          |
+| Partite Multiple                |      | ✅       |
+| Persistenza                     |      | ✅       |
+| Terminator                      |      | ✅       |
+| Modalità dominazione o torrette |      | ✅       |
 
-|  Requisiti soddisfatti   | Voto  |
-|-----|---|
-| Regole Semplificate + CLI + (Socket o RMI) | 18|
-| Regole Complete + CLI + (Socket o RMI) | 21|
-| Regole Complete + CLI + (Socket o RMI) + 1 FA | 22 |
-| Regole Complete + GUI + (Socket o RMI) + 1 FA | 24 |
-| Regole Complete + GUI + Socket + RMI + 1 FA | 27 |
-| Regole Complete + CLI + GUI + Socket + RMI + 1 FA | 30 |
-| Regole Complete + CLI + GUI + Socket + RMI + 2 FA | 30L |
+| Requisiti soddisfatti                             | Voto |
+| ------------------------------------------------- | ---- |
+| Regole Semplificate + CLI + (Socket o RMI)        | 18   |
+| Regole Complete + CLI + (Socket o RMI)            | 21   |
+| Regole Complete + CLI + (Socket o RMI) + 1 FA     | 22   |
+| Regole Complete + GUI + (Socket o RMI) + 1 FA     | 24   |
+| Regole Complete + GUI + Socket + RMI + 1 FA       | 27   |
+| Regole Complete + CLI + GUI + Socket + RMI + 1 FA | 30   |
+| Regole Complete + CLI + GUI + Socket + RMI + 2 FA | 30L  |
 
 ### 2018 - Sagrada
 
@@ -181,26 +210,26 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 
 ✅ Requisiti
 
-|  Funzionalità   | Base  | Avanzata |
-|-----|---|---|
-| Regole semplificate | ✅ | |
-| Regole complete | ✅ | |
-| Socket | ✅ | |
-| RMI | ✅ | |
-| TUI | ✅ | |
-| GUI | ✅ | |
+| Funzionalità        | Base | Avanzata |
+| ------------------- | ---- | -------- |
+| Regole semplificate | ✅   |          |
+| Regole complete     | ✅   |          |
+| Socket              | ✅   |          |
+| RMI                 | ✅   |          |
+| TUI                 | ✅   |          |
+| GUI                 | ✅   |          |
 
 **Funzionalità avanzate mancanti**
 
-|  Requisiti soddisfatti   | Voto  |
-|-----|---|
-| Regole Semplificate + TUI + RMI o Socket| 18|
-| Regole Complete + TUI + RMI o Socket | 20|
-| Regole Complete + TUI + RMI o Socket + 1 FA | 22|
-| Regole Complete + TUI + GUI + RMI o Socket + 1 FA | 24|
-| Regole Complete + TUI + GUI + RMI + Socket + 1 FA | 27|
-| Regole Complete + TUI + GUI + RMI + Socket + 2 FA | 30|
-| Regole Complete + TUI + GUI + RMI + Socket + 3 FA | 30L|
+| Requisiti soddisfatti                             | Voto |
+| ------------------------------------------------- | ---- |
+| Regole Semplificate + TUI + RMI o Socket          | 18   |
+| Regole Complete + TUI + RMI o Socket              | 20   |
+| Regole Complete + TUI + RMI o Socket + 1 FA       | 22   |
+| Regole Complete + TUI + GUI + RMI o Socket + 1 FA | 24   |
+| Regole Complete + TUI + GUI + RMI + Socket + 1 FA | 27   |
+| Regole Complete + TUI + GUI + RMI + Socket + 2 FA | 30   |
+| Regole Complete + TUI + GUI + RMI + Socket + 3 FA | 30L  |
 
 ### 2017 - Lorenzo il Magnifico
 
@@ -208,30 +237,34 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 
 ✅ Requisiti
 
-|  Funzionalità   | Base  | Avanzata |
-|-----|---|---|
-| Regole semplificate | ✅ | |
-| Regole complete | ✅ | |
-| Socket | ✅ | |
-| RMI | ✅ | |
-| TUI | ✅ | |
-| GUI | ✅ | |
+| Funzionalità        | Base | Avanzata |
+| ------------------- | ---- | -------- |
+| Regole semplificate | ✅   |          |
+| Regole complete     | ✅   |          |
+| Socket              | ✅   |          |
+| RMI                 | ✅   |          |
+| TUI                 | ✅   |          |
+| GUI                 | ✅   |          |
 
 **Funzionalità avanzate mancanti**
 
-|  Requisiti soddisfatti   | Voto  |
-|-----|---|
-| Regole Semplificate + TUI + RMI o Socket| 18|
-| Regole Complete + TUI + RMI o Socket | 20|
-| Regole Complete + TUI + RMI o Socket + 1 FA | 22|
-| Regole Complete + TUI + GUI + RMI o Socket + 1 FA | 24|
-| Regole Complete + TUI + GUI + RMI + Socket + 1 FA | 27|
-| Regole Complete + TUI + GUI + RMI + Socket + 2 FA | 30|
-| Regole Complete + TUI + GUI + RMI + Socket + 3 FA | 30L|
+| Requisiti soddisfatti                             | Voto |
+| ------------------------------------------------- | ---- |
+| Regole Semplificate + TUI + RMI o Socket          | 18   |
+| Regole Complete + TUI + RMI o Socket              | 20   |
+| Regole Complete + TUI + RMI o Socket + 1 FA       | 22   |
+| Regole Complete + TUI + GUI + RMI o Socket + 1 FA | 24   |
+| Regole Complete + TUI + GUI + RMI + Socket + 1 FA | 27   |
+| Regole Complete + TUI + GUI + RMI + Socket + 2 FA | 30   |
+| Regole Complete + TUI + GUI + RMI + Socket + 3 FA | 30L  |
 
 ---
 
 ## Progetti con il massimo dei voti
+
+### 2024 - 30/30L
+
+T.B.C
 
 ### 2023 - 30/30L
 
@@ -273,7 +306,7 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 
 <https://github.com/marcofasa/ing-sw-2021-Fasanella-Maggioni-Manini>
 
-<https://github.com/citteriomatteo/ingswAM2021-Barbiero-Citterio-Caspani>  
+<https://github.com/citteriomatteo/ingswAM2021-Barbiero-Citterio-Caspani>
 
 <https://github.com/aralara/ing-sw-2021-ferro-fumagalli-rigamonti>
 
@@ -317,7 +350,7 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 
 <https://github.com/giorgiopiazza/IngSw-Project-2019>
 
-<https://github.com/f-cazzola/ing-sw-2019-bordoni-cazzola-dotti>  
+<https://github.com/f-cazzola/ing-sw-2019-bordoni-cazzola-dotti>
 
 ### 2018 - 30/30L
 
@@ -330,6 +363,10 @@ T.B.C
 ---
 
 ## Altri progetti
+
+### 2024 - other
+
+T.B.C
 
 ### 2023 - other
 
@@ -521,143 +558,143 @@ T.B.C
 
 ### 2021 - other
 
-<https://github.com/Stefano-Civelli/ingswAM2021-Bernardelle-Civelli-Amati>  
+<https://github.com/Stefano-Civelli/ingswAM2021-Bernardelle-Civelli-Amati>
 
-<https://github.com/caliandro-arturo/ingswAM2021-Caliandro-Converso-Dantini>  
+<https://github.com/caliandro-arturo/ingswAM2021-Caliandro-Converso-Dantini>
 
-<https://github.com/chinifabio/ingswAM2021-Chini-Colabene-Curreri>  
+<https://github.com/chinifabio/ingswAM2021-Chini-Colabene-Curreri>
 
-<https://github.com/A1iceCariboni/IngswProj-2021>  
+<https://github.com/A1iceCariboni/IngswProj-2021>
 
-<https://github.com/andrea-chizzola/ingswAM2021-Corigliano-Colombo-Chizzola>  
+<https://github.com/andrea-chizzola/ingswAM2021-Corigliano-Colombo-Chizzola>
 
-<https://github.com/nema-oss/ingswAM2021-Antonic-Buonagurio-Bwanika>  
+<https://github.com/nema-oss/ingswAM2021-Antonic-Buonagurio-Bwanika>
 
 <https://github.com/SimoneBaselicePolimi/ingswAM2021-Baselice-Bagnoli-Brugnano>
 
-<https://github.com/andrea-amadei/ingswAM2021-Amadei-Buccoliero-Buttiglieri>  
+<https://github.com/andrea-amadei/ingswAM2021-Amadei-Buccoliero-Buttiglieri>
 
-<https://github.com/salvatorebuono02/ingswAM2021-Blasucci-Abatiello-Buono>  
+<https://github.com/salvatorebuono02/ingswAM2021-Blasucci-Abatiello-Buono>
 
-<https://github.com/fillics/ingswAM2021-calio-bartolozzi-caleffi>  
+<https://github.com/fillics/ingswAM2021-calio-bartolozzi-caleffi>
 
-<https://github.com/GiovanniDeNovellis/ingswAM2021-DeNovellis-Donato-Bellini>  
+<https://github.com/GiovanniDeNovellis/ingswAM2021-DeNovellis-Donato-Bellini>
 
-<https://github.com/AlessandroCurti/ingswAM2021-DallOglio-Demasi-Curti>  
+<https://github.com/AlessandroCurti/ingswAM2021-DallOglio-Demasi-Curti>
 
-<https://github.com/alessandromaranelli/ingswAM2021-Bachir-LaManna-Maranelli>  
+<https://github.com/alessandromaranelli/ingswAM2021-Bachir-LaManna-Maranelli>
 
-<https://github.com/DavideDavanzo/ingswAM2021-Davanzo-DelGaizo-deStefano>  
+<https://github.com/DavideDavanzo/ingswAM2021-Davanzo-DelGaizo-deStefano>
 
-<https://github.com/CanaliDavide/IngSw_Progetto>  
+<https://github.com/CanaliDavide/IngSw_Progetto>
 
-<https://github.com/GiorgioSeguini/ing-sw-2021-Seguini-Villa-Zeni>  
+<https://github.com/GiorgioSeguini/ing-sw-2021-Seguini-Villa-Zeni>
 
-<https://github.com/MarcoLorenzoCampo/IngSwAM2021-de_luca-cristiano-campo>  
+<https://github.com/MarcoLorenzoCampo/IngSwAM2021-de_luca-cristiano-campo>
 
-<https://github.com/ChristianRomeo/ing-sw-2021-Staiano-Tissot-Romeo>  
+<https://github.com/ChristianRomeo/ing-sw-2021-Staiano-Tissot-Romeo>
 
-<https://github.com/williamzeni99/Maestri-del-Rinascimento>  
+<https://github.com/williamzeni99/Maestri-del-Rinascimento>
 
-<https://github.com/MazzaAlessandro/masters-of-renaissance>  
+<https://github.com/MazzaAlessandro/masters-of-renaissance>
 
-<https://github.com/ValeriaPante/masters_of_renaissance>  
+<https://github.com/ValeriaPante/masters_of_renaissance>
 
-<https://github.com/DaviCori/Software-Engineering-Project>  
+<https://github.com/DaviCori/Software-Engineering-Project>
 
-<https://github.com/mirkoliveli/ing-sw-2021-grossoni-liveli-orlando>  
+<https://github.com/mirkoliveli/ing-sw-2021-grossoni-liveli-orlando>
 
 <https://github.com/Calonca/ing-sw-2021-laconca-lodari-giaccaglia>
 
 ### 2020 - other
 
-<https://github.com/snegrini/IngSw-Project-2020>  
+<https://github.com/snegrini/IngSw-Project-2020>
 
-<https://github.com/lulol38/lebestie_ingsw2020>  
+<https://github.com/lulol38/lebestie_ingsw2020>
 
-<https://github.com/MassimoValle/ing-sw-2020-valle-sangeniti-refaie>  
+<https://github.com/MassimoValle/ing-sw-2020-valle-sangeniti-refaie>
 
-<https://github.com/ToMmAzO/Progetto_IngSw_2020>  
+<https://github.com/ToMmAzO/Progetto_IngSw_2020>
 
-<https://github.com/CosimoSguanci/ing-sw-2020-sguanci-spatafora-vergani>  
+<https://github.com/CosimoSguanci/ing-sw-2020-sguanci-spatafora-vergani>
 
-<https://github.com/riccardopaltrinieri/Santorini-desktop-game>  
+<https://github.com/riccardopaltrinieri/Santorini-desktop-game>
 
-<https://github.com/davide-giacomini/Ing-Sw-2020-Galzerano-Giacomini-Leone>  
+<https://github.com/davide-giacomini/Ing-Sw-2020-Galzerano-Giacomini-Leone>
 
-<https://github.com/MirkoDeVita98/ing-sw-2020-Aspesi-Bettini-DeVita>  
+<https://github.com/MirkoDeVita98/ing-sw-2020-Aspesi-Bettini-DeVita>
 
-<https://github.com/ZhouJian26/Santorini>  
+<https://github.com/ZhouJian26/Santorini>
 
-<https://github.com/nickpolvani/Santorini>  
+<https://github.com/nickpolvani/Santorini>
 
-<https://github.com/davidecarini/Santorini_JAVA-GAME>  
+<https://github.com/davidecarini/Santorini_JAVA-GAME>
 
-<https://github.com/TiberioG/sw-engineering-polimi-santorini-java>  
+<https://github.com/TiberioG/sw-engineering-polimi-santorini-java>
 
-<https://github.com/hamzahaddaoui/ing-sw-2020-Haddaoui-Giusti-Gervasio>  
+<https://github.com/hamzahaddaoui/ing-sw-2020-Haddaoui-Giusti-Gervasio>
 
-<https://github.com/fulcus/ing-sw-2020-gonzales-latino-fabris>  
+<https://github.com/fulcus/ing-sw-2020-gonzales-latino-fabris>
 
-<https://github.com/AlessandroRuzzi/Software-Engineering-Project>  
+<https://github.com/AlessandroRuzzi/Software-Engineering-Project>
 
-<https://github.com/LorenzoMainetti/ing-sw-2020-Mainetti-Iorio-Lacava>  
+<https://github.com/LorenzoMainetti/ing-sw-2020-Mainetti-Iorio-Lacava>
 
-<https://github.com/darklamp/ing-sw-2020-Secondari-Vela-Villa>  
+<https://github.com/darklamp/ing-sw-2020-Secondari-Vela-Villa>
 
-<https://github.com/lucagrammer/Ing-Sw-2020-Leoni-Locarno-Minotti>  
+<https://github.com/lucagrammer/Ing-Sw-2020-Leoni-Locarno-Minotti>
 
-<https://github.com/mirkousuelli/ing-sw-2020-secreti-tresoldi-usuelli>  
+<https://github.com/mirkousuelli/ing-sw-2020-secreti-tresoldi-usuelli>
 
 ### 2019 - other
 
-<https://github.com/alessiapacca/ing-sw-2019-13>  
+<https://github.com/alessiapacca/ing-sw-2019-13>
 
-<https://github.com/paglias/ing-sw-2019-16>  
+<https://github.com/paglias/ing-sw-2019-16>
 
-<https://github.com/MarcoPianta/ing-sw-2019-34>  
+<https://github.com/MarcoPianta/ing-sw-2019-34>
 
-<https://github.com/zommi/ing-sw-2019-13>  
+<https://github.com/zommi/ing-sw-2019-13>
 
-<https://github.com/andreaalf97/ing-sw-2019-Alfieri-Carrioli-Ceruti>  
+<https://github.com/andreaalf97/ing-sw-2019-Alfieri-Carrioli-Ceruti>
 
-<https://github.com/ste7en/ing-sw-2019-chiappalupi-formicola-iannucci>  
+<https://github.com/ste7en/ing-sw-2019-chiappalupi-formicola-iannucci>
 
-<https://github.com/JacopoCosta/ing-sw-2019-calabresi-costa-dalla_longa>  
+<https://github.com/JacopoCosta/ing-sw-2019-calabresi-costa-dalla_longa>
 
-<https://github.com/lrsb/ing-sw-2019-7>  
+<https://github.com/lrsb/ing-sw-2019-7>
 
-<https://github.com/etoscano/ing-sw-2019-29>  
+<https://github.com/etoscano/ing-sw-2019-29>
 
-<https://github.com/edoardorealini/ing-sw-2019-02>  
+<https://github.com/edoardorealini/ing-sw-2019-02>
 
-<https://github.com/rockplayer007/ing-sw-2019-37>  
+<https://github.com/rockplayer007/ing-sw-2019-37>
 
-<https://github.com/elenasl96/ing-sw-2019-6>  
+<https://github.com/elenasl96/ing-sw-2019-6>
 
-<https://github.com/michele-colombo/ing-sw-2019-colombo-daglio-diceglie>  
+<https://github.com/michele-colombo/ing-sw-2019-colombo-daglio-diceglie>
 
-<https://github.com/muxueman/ing-sw-2019-Mu-Li-Jia>  
+<https://github.com/muxueman/ing-sw-2019-Mu-Li-Jia>
 
-<https://github.com/DPaletti/ing-sw-2019-paletti-nigro-marzano>  
+<https://github.com/DPaletti/ing-sw-2019-paletti-nigro-marzano>
 
-<https://github.com/PaoloC96/ing-sw-2019-Buratti-Capra-Chiudinelli>  
+<https://github.com/PaoloC96/ing-sw-2019-Buratti-Capra-Chiudinelli>
 
-<https://github.com/GetnaG/ing-sw-2019-abbo-attolini-bentej>  
+<https://github.com/GetnaG/ing-sw-2019-abbo-attolini-bentej>
 
-<https://github.com/fcolombo7/ing-sw-2019-craighero-colombo-delvecchio>  
+<https://github.com/fcolombo7/ing-sw-2019-craighero-colombo-delvecchio>
 
-<https://github.com/Furcanzo/ing-sw-2019-Buratti-Capra-Chiudinelli>  
+<https://github.com/Furcanzo/ing-sw-2019-Buratti-Capra-Chiudinelli>
 
-<https://github.com/FedericoGianni/ing-sw-2019-collovigh-contini-dei_cas>  
+<https://github.com/FedericoGianni/ing-sw-2019-collovigh-contini-dei_cas>
 
-<https://github.com/mattiamassarini/ing-sw-2019-ferraiuolo-massarini-melis>  
+<https://github.com/mattiamassarini/ing-sw-2019-ferraiuolo-massarini-melis>
 
-<https://github.com/marbaga/ing-sw-2019-alde-bagatella-bassani>  
+<https://github.com/marbaga/ing-sw-2019-alde-bagatella-bassani>
 
-<https://github.com/nicholasmagatti/ing-sw-2019-Iovine-LoBue-Magatti>  
+<https://github.com/nicholasmagatti/ing-sw-2019-Iovine-LoBue-Magatti>
 
-<https://github.com/RiccardoColella/ing-sw-2019-Colella-DellAcqua-Ferrari>  
+<https://github.com/RiccardoColella/ing-sw-2019-Colella-DellAcqua-Ferrari>
 
 ### 2018 - other
 
