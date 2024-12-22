@@ -270,6 +270,8 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 
 <https://github.com/Slaitroc/ing-sw-2024-ricci-salvini-paoli-sartori>
 
+<https://github.com/GiulianoCrescimbeni/polimi-sw-eng-codex-naturalis>
+
 ### 2023 - 30/30L
 
 <https://github.com/TheFedelino01/ing-sw-2023-saccani-spangaro-sanvito-pedersoli>
