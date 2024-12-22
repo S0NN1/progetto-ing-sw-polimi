@@ -268,6 +268,8 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 
 <https://github.com/Richypiants/ing-sw-2024-piantoni-rossi-pinto-sacramone>
 
+<https://github.com/Slaitroc/ing-sw-2024-ricci-salvini-paoli-sartori>
+
 <https://github.com/GiulianoCrescimbeni/polimi-sw-eng-codex-naturalis>
 
 ### 2023 - 30/30L
