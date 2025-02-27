@@ -272,6 +272,8 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 
 <https://github.com/GiulianoCrescimbeni/polimi-sw-eng-codex-naturalis>
 
+<https://github.com/Aleee-ggr/ing-sw-2024-franzese-geronimi-guarisco-ieva>
+
 <https://github.com/Elylo15/Prova-Finale-di-ingegneria-del-Software>
 
 ### 2023 - 30/30L
@@ -371,6 +373,18 @@ T.B.C
 ---
 
 ## Altri progetti
+
+### 2024 - other
+
+<https://github.com/matteo-luraghi/ing-sw-2024-Luraghi-Meroi-Leonardi-Kodheli>
+
+<https://github.com/Pole11/ing-sw-2024-polelli-pozzi-quartieri-tessera>
+
+<https://github.com/cosimonegri/ing-sw-2024-lovino-mierlita-negri-orizio>
+
+<https://github.com/PietroRoggero/ing-sw-2024-roggero-tallarico-trombetta-razza>
+
+<https://github.com/andreeapaganelli/ing-sw-2024-paganelli-mariano-meacci-martini>
 
 ### 2023 - other
 
