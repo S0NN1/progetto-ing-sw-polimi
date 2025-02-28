@@ -276,6 +276,8 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 
 <https://github.com/Elylo15/Prova-Finale-di-ingegneria-del-Software>
 
+<https://github.com/faccioliandrea/Codex-Naturalis>
+
 ### 2023 - 30/30L
 
 <https://github.com/TheFedelino01/ing-sw-2023-saccani-spangaro-sanvito-pedersoli>
