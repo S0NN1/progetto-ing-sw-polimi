@@ -264,6 +264,8 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 
 ### 2024 - 30/30L
 
+<https://github.com/federicovilla55/Codex-Naturalis>
+
 <https://github.com/AndreaGrandieri/ing-sw-2024-codex-naturalis>
 
 <https://github.com/Richypiants/ing-sw-2024-piantoni-rossi-pinto-sacramone>
