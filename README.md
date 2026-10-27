@@ -264,6 +264,9 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 
 ### 2024 - 30/30L
 
+
+<https://github.com/PiervitoCreanza/IS24-AM02> Documentazione: <https://mattiacolombomc.github.io/IS24-AM02-slides.github.io/>
+
 <https://github.com/federicovilla55/Codex-Naturalis>
 
 <https://github.com/AndreaGrandieri/ing-sw-2024-codex-naturalis>
